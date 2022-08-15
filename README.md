@@ -19,9 +19,9 @@ https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python/dow
 
 ## Clustering Algorithms Implemented
 1. Executed Data Visualization (Histogram, Pie Chart, Box Plot) to get an understanding on the input features
-2. ied KMeans,Agglomerative Hierarchical Clustering and DBSCAN algorithm to cluster the data points
-3. rformed Elbow Technique , Silhouette Score and Davies-Bouldin techniques to find number of clusters
-4.*Hierarchial** is used for generating clusters, optimal number of clusters is obtained using **Dendogram** method.
+2. Applied  KMeans,Agglomerative Hierarchical Clustering and DBSCAN algorithm to cluster the data points
+3. Performed  Elbow Technique , Silhouette Score and Davies-Bouldin techniques to find number of clusters
+4. *Hierarchial** is used for generating clusters, optimal number of clusters is obtained using **Dendogram** method.
 
 ## Conclusion
 By looking at the clusters of customers and their corresponding spending scores, customers have been aggregated them into 4 different categories namely Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers. Appropriate marketing strategies and policies (according to segment in which custome lies) can be made to optimize the spending scores of the customer in the Mall.
